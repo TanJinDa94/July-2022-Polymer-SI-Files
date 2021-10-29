@@ -1,0 +1,7 @@
+Date	22/2/2021	
+Time	2:54 pm	
+Total scan duration	10	hr
+Total no. of scans	7200	
+Int. Time	5000	ms
+Averaging	1	
+Smoothing	0	

@@ -1,0 +1,7 @@
+Date	12/10/2020	
+Time	3:27 pm	
+Total scan duration	3	hr
+Total no. of scans	2160	
+Int. Time	5000	ms
+Averaging	1	
+Smoothing	0	
